@@ -1,8 +1,6 @@
 # bike-lockers
 
-# Project Title
-
-One Paragraph of project description goes here
+This program is to help sort the bike locker rental system for the bike co-op. 
 
 Template unfilled below. 
 
